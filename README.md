@@ -6,3 +6,5 @@ Ejercicios de HTML, CSS y JS para Laboratorio de Computación II
 * Agregar diapositivas de Code-Review
 * Agregar texto en canvas
 * revisar etiqueta main https://developer.mozilla.org/es/docs/Web/HTML/Elemento/main
+
+AL DIA CON TODOS LOS EJERCICIOS (CREO)

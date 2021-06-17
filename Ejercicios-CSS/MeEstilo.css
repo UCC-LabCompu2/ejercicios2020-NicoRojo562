@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    font-family: 'Gugi', cursive;
+    background: linear-gradient(to right, #ce6e66, #cb3d2f);
+}
+div{
+    border: 2px dashed #000000;
+    margin: 10px;
+    padding: 5px 30px;
+    border-radius: 15px;
+    box-shadow: 10px 5px #636;
+}
+#principal{
+    width: 50px;
+    float: left;
+    border-radius: 50%;
+}
+
+div.especial h3{
+    font-family: 'Baloo Tammudu 2', cursive;
+    text-shadow: 10px 5px #0f0f11;
+}
